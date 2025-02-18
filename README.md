@@ -38,11 +38,6 @@ This project is a **single-page website** designed to provide beginners with an 
 
 ---
 
-### 🚀 How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Ankit0101705/machine-learning-website.git
-   cd machine-learning-website
  
 This **README** explains the **single-page structure**, technologies, sections, and how users can contribute. You can copy-paste it into `README.md` for your GitHub repository.  
 
