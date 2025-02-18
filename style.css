@@ -1,0 +1,320 @@
+/* index Page */
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: auto;
+    padding: 0;
+    background-color: #F5F5F5;
+}
+
+header {
+    background-color: #F5F5F5;
+    color: #fff;
+    padding: 1.5rem 0;
+    text-align: left;
+    font-size: xx-large;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+    background-color: #4e4e4e;
+    margin: 0;
+    border: none;
+    font-size: xx-large;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 1rem;
+    padding: 0.5rem 1rem;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    max-width: auto;
+    margin: 0 auto;
+    background-color: #F5F5F5;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: x-large;
+}
+
+h1,
+h2,
+h3 {
+    color: #000000;
+    font-weight: bold;
+}
+
+img {
+    max-width: 30%;
+    height: auto;
+}
+
+ul {
+    padding-left: 1.5rem;
+}
+
+.contact-box {
+    display: flex;
+    align-items: center;
+}
+
+.contact-box a {
+    color: #000;
+    text-decoration: none;
+    margin-left: 1rem;
+    font-size: large;
+}
+
+.search-box {
+    margin-left: 1rem;
+}
+
+.search-box input[type="text"] {
+    padding: 0.5rem;
+    font-size: large;
+}
+
+.search-box input[type="submit"] {
+    padding: 0.5rem;
+    font-size: large;
+    background-color: #4e4e4e;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+/* About Page */
+        body {
+            font-family: 'Times New Roman', Times, serif, sans-serif;
+            margin: auto;
+            padding: 0;
+            background-color: #F5F5F5;
+        }
+
+        header {
+            background-color: #F5F5F5;
+            color: #fff;
+            padding: 1.5rem 0;
+            text-align: left;
+            font-size: xx-large;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            text-align: left;
+            background-color: #4e4e4e;
+            margin: 0;
+            border: none;
+            font-size: xx-large;
+        }
+
+        nav ul li {
+            display: inline-block;
+            margin: 0 1rem;
+            padding: 0.5rem 1rem;
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        section {
+            padding: 2rem;
+            max-width: auto;
+            margin: 0 auto;
+            background-color: #F5F5F5;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            font-size: x-large;
+        }
+
+        h1,
+        h2,
+        h3 {
+            color: #000000;
+            font-weight: bold;
+        }
+
+        img {
+            max-width: 30%;
+            height: auto;
+        }
+
+        ul {
+            padding-left: 1.5rem;
+        }
+        
+
+    /* Learning Page */
+        body {
+            font-family: 'Times New Roman', Times, serif, sans-serif;
+            margin: auto;
+            padding: 0;
+            background-color: #F5F5F5;
+        }
+
+        header {
+            background-color: #F5F5F5;
+            color: #000000;
+            padding: 1.5rem 0;
+            text-align: left;
+            font-size: xx-large;
+            display: flex;
+            align-items: center;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            text-align: left;
+            background-color: #000000;
+            margin: 0;
+            border: none;
+            font-size: xx-large;
+        }
+
+        nav ul li {
+            display: inline-block;
+            margin: 0 1rem;
+            padding: 0.5rem 1rem;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #ffffff;
+        }
+
+        .section {
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin-bottom: 15px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .section h2 {
+            margin-top: 0;
+            color: #000000;
+        }
+
+        .section p {
+            color: #000000;
+        }
+    
+        /* Contract Page */
+        body {
+            font-family: 'Times New Roman', Times, serif, sans-serif;
+            margin: auto;
+            padding: 0;
+            background-color: #F5F5F5;
+        }
+
+        header {
+            background-color: #F5F5F5;
+            color: #fff;
+            padding: 1.5rem 0;
+            text-align: left;
+            font-size: xx-large;
+            display: flex;
+            align-items: center;
+            border-bottom: 2px solid #000;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            text-align: left;
+            background-color: #4e4e4e;
+            margin: 0;
+            border: none;
+            font-size: xx-large;
+        }
+
+        nav ul li {
+            display: inline-block;
+            margin: 0 1rem;
+            padding: 0.5rem 1rem;
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        section {
+            padding: 2rem;
+            max-width: auto;
+            margin: 0 auto;
+            background-color: #F5F5F5;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            font-size: x-large;
+        }
+
+        h1,
+        h2,
+        h3 {
+            color: #000000;
+            font-weight: bold;
+        }
+
+        img {
+            max-width: 0%;
+            height: auto;
+        }
+
+        ul {
+            padding-left: 1.5rem;
+        }
+
+        form label {
+            display: block;
+            margin-top: 1rem;
+        }
+
+        form input,
+        form textarea {
+            width: 100%;
+            padding: 0.5rem;
+            margin-top: 0.5rem;
+            font-size: large;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        form button {
+            margin-top: 1rem;
+            padding: 0.75rem 1.5rem;
+            font-size: large;
+            background-color: #4e4e4e;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+
+        form button:hover {
+            background-color: #333;
+        }
+    
+        /* Image */
+        /* .logo {
+            background-image: url("logo.jpg");
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        } */
+        
