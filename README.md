@@ -38,8 +38,5 @@ This project is a **single-page website** designed to provide beginners with an 
 
 ---
 
- 
-This **README** explains the **single-page structure**, technologies, sections, and how users can contribute. You can copy-paste it into `README.md` for your GitHub repository.  
-
 Let me know if you want any modifications! 🚀
 
