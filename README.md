@@ -8,8 +8,6 @@ This project is a **single-page website** designed to provide beginners with an 
 - ✅ **Resources & Learning** – Find useful courses and guides.  
 - ✅ **Contact Form** – Get in touch for queries and collaborations.  
 
-## 🔗 Live Preview
-*(If hosted, add the link here)*  
 
 ## 🛠️ Technologies Used  
 - **HTML** – Structure of the page  
